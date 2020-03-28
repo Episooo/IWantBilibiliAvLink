@@ -1,7 +1,7 @@
 // ==UserScript==
-// @name         IWantBilibiliAvLink
+// @name         I Want Bilibili Av Link
 // @namespace    www.episooo.cn
-// @version      0.1
+// @version      1.0
 // @description  Copy AV link of bilibilibili video to clipboard
 // @author       episooo
 // @match        *www.bilibili.com/video/*
@@ -54,7 +54,7 @@
 width:80px;
 padding:3px;
 text-align:center;
-position:fixed;
+position:absolute;
 right:0px;
 top:56px;
 z-index:1000;
@@ -74,7 +74,7 @@ background:rgba(1,175,253,0.3);
 width:80px;
 padding:3px;
 text-align:center;
-position:fixed;
+position:absolute;
 right:0px;
 top:78px;
 z-index:1000;
